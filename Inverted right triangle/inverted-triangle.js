@@ -15,8 +15,10 @@ console.log(pattern);
 
 console.log("\n");
 
+
 console.log("class");
 console.log("\n");
+
 
 let n = 6;
 let pattern2 = "";
