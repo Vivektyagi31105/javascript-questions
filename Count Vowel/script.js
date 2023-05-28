@@ -10,6 +10,7 @@ function countVowels(str) {
   }
   return count;
 }
+
 const str = prompt("Type the name: ");
 const result = countVowels(str);
 
