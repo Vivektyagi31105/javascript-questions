@@ -4,8 +4,10 @@ function validateForm() {
 
   if (pass1 != pass2) {
     alert("Password didn't match. Password validation unsuccessful");
+    
   } else {
     alert("Password matched.Password Validation Successful");
+    
   }
   
 }
