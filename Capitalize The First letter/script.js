@@ -4,9 +4,11 @@
 // returns the modified string. Otherwise, it returns the original string without any changes.
 
 function capitalize(str) {
+  
   let first_letter = str.charAt(0).toUpperCase();
   let capitalize_string = first_letter + str.slice(1);
   return capitalize_string;
+  
 }
 
 const str = prompt("Type the name: ");
