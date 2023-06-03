@@ -1,4 +1,4 @@
-console.log("class");
+
 let i = 6;
 let pattern = "";
 
@@ -16,7 +16,7 @@ console.log(pattern);
 console.log("\n");
 
 
-console.log("class");
+
 console.log("\n");
 
 
