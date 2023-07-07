@@ -10,6 +10,5 @@ function validateForm() {
   } else {
     alert("Password matched.Password Validation Successful");
     
-  }
-  
+  } 
 }
