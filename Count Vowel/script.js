@@ -9,6 +9,7 @@ function countVowels(str) {
     if (vowels.includes(str[i])) {
       count++;
     }
+    
   }
   
   return count;
