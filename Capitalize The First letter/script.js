@@ -14,6 +14,7 @@ function capitalize(str) {
 }
 
 const str = prompt("Type the name: ");
+
 const result = capitalize(str);
 
 console.log(result);
