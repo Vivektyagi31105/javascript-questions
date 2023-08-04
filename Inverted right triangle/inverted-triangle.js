@@ -6,6 +6,7 @@ for (let a = 1; a <= i; a++) {
   for (let b = 0; b < i - a; b++) {
     pattern += "";
   }
+  
   for (let c = 0; c < a; c++) {
     pattern += "*";
   }
