@@ -27,6 +27,7 @@ for (let a = 0; a <= n; a++) {
   for (let b = 0; b < n; b++) {
     pattern2 += "";
   }
+  
   for (let c = 0; c < n - a; c++) {
     pattern2 += "*";
   }
